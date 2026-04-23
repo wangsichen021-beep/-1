@@ -13,4 +13,4 @@ This repository contains a manual implementation of a 3-layer Multilayer Percept
 2. The script will automatically download the dataset, train the models, save the best weights to `best_model.pkl`, and plot the learning curves.
 
 ## Model Weights
-The best model weights have been uploaded to Google Drive. You can download them here: [YOUR_GOOGLE_DRIVE_LINK]
+The best model weights have been uploaded to Google Drive. You can download them here: [(https://drive.google.com/file/d/1A1gD3R88FmPV5vDhmAb6sbVR4DH93U9X/view?usp=drive_link)]
